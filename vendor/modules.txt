@@ -256,7 +256,7 @@ go.opencensus.io/trace/tracestate
 ## explicit; go 1.17
 golang.org/x/crypto/pbkdf2
 golang.org/x/crypto/scrypt
-# golang.org/x/sys v0.0.0-20211007075335-d3039528d8ac
+# golang.org/x/sys v0.1.0
 ## explicit; go 1.17
 golang.org/x/sys/execabs
 golang.org/x/sys/internal/unsafeheader
