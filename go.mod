@@ -21,8 +21,8 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.7.0
 	github.com/stretchr/testify v1.7.0
-	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b
-	golang.org/x/text v0.3.7
+	golang.org/x/term v0.1.0
+	golang.org/x/text v0.4.0
 	gopkg.in/segmentio/analytics-go.v3 v3.1.0
 	gopkg.in/yaml.v2 v2.4.0
 )
@@ -71,8 +71,8 @@ require (
 	github.com/subosito/gotenv v1.2.0 // indirect
 	github.com/xtgo/uuid v0.0.0-20140804021211-a0b114877d4c // indirect
 	go.opencensus.io v0.23.0 // indirect
-	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97 // indirect
-	golang.org/x/sys v0.0.0-20211007075335-d3039528d8ac // indirect
+	golang.org/x/crypto v0.1.0 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 	gopkg.in/cheggaaa/pb.v1 v1.0.26 // indirect
 	gopkg.in/ini.v1 v1.51.0 // indirect
