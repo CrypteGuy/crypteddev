@@ -5,7 +5,7 @@ require (
 	github.com/Masterminds/sprig v2.15.0+incompatible
 	github.com/cheggaaa/pb v1.0.25
 	github.com/denisbrodbeck/machineid v1.0.1
-	github.com/docker/docker v20.10.8+incompatible
+	github.com/docker/docker v20.10.24+incompatible
 	github.com/fsouza/go-dockerclient v1.7.4
 	github.com/google/go-github v0.0.0-20180716180158-c0b63e2f9bb1
 	github.com/google/uuid v1.3.0
